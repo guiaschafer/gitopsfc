@@ -20,5 +20,5 @@ jobs:
       - name: Build and push image to DockerHub
         uses: docker/build-push-action@v5
         with:         
-          repository: ${{ secrets.GITOPS_USERNAME }}/gitopsfc
+          repository: ${{ secrets.DOCKER_USERNAME }}/gitopsfc
           tags: ${{ github.sha }}, latest
