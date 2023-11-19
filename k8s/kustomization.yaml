@@ -5,5 +5,5 @@ resources:
 - service.yaml
 images:
 - name: goserver
-  newName: guischafer/gitopsfc
-  newTag: e67721187e92d6b924853d0e01f035171ef8548c
+  newName: guischafer/gitops
+  newTag: bab0c20b23fd100db00b3021bbd0550034edc621
