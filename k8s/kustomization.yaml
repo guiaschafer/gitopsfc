@@ -6,4 +6,4 @@ resources:
 images:
 - name: goserver
   newName: guischafer/gitops
-  newTag: 04adfe4cc72ceefa1581b81b39992f5307ac9823
+  newTag: e67721187e92d6b924853d0e01f035171ef8548c
